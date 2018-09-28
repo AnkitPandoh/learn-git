@@ -5,3 +5,5 @@ This is new line that has been added to sample
 This is second line in the sample before adding it to stage area.
 
 This is the third line in the sample after adding it to stage area.
+
+Changes done after pushing it to git hub
