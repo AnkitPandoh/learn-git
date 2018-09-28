@@ -1,3 +1,4 @@
 Hello World
 doing before mixed reset commit
 doing after mixed reset commit
+updating sample3
